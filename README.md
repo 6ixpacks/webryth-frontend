@@ -1,2 +1,2 @@
 # webryth-frontend
-Frontend od
+Frontend of the webryth website
